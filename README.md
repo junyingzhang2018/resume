@@ -21,10 +21,11 @@
 * 有3年Linux使用经验，熟悉常用命令与配置。
 
 ## 个人经历
-* 2013年进入中山大学学习。
-* 大一在中山大学软件创意赛获得冠军并担任Team Leader角色。
-* 大二担任中山大学魔术协会会长。
-* 大三担任中山大学现代互联网应用俱乐部主席。
+* 在中山大学软件创意赛获得冠军并担任Team Leader角色。（2013.9-2013.11）
+* 担任中山大学魔术协会会长。（2014.5-2015.5）
+* 在中北明夷科技有限公司实习，负责压力测试和web后端开发。（2015.1-2015.2）
+* 担任中山大学现代互联网应用俱乐部主席。(2015.5-至今)
+* 负责中山大学-卡内基梅隆大学联合工程学院服务器管理维护工作。（2015.9-至今）
 
 ## 项目
 
@@ -71,6 +72,21 @@ Pypi地址：https://pypi.python.org/pypi/rdir
 项目地址：https://github.com/laiy/Agenda
 
 用C++实现的会议管理软件。
+
+#### [CMS-SDCS](http://sdcs.sysu.edu.cn/)
+网站地址：http://sdcs.sysu.edu.cn/
+
+用PHP和Wordpress框架实现的中山大学数据科学与计算机学院的CMS系统。
+
+#### [GridWorld](https://github.com/laiy/GridWorld)
+项目地址：https://github.com/laiy/GridWorld
+
+用JAVA实现的小虫迷宫游戏。
+
+#### [diandian](http://zhddgy.com/)
+网站地址：http://zhddgy.com/
+
+参与开发用NodeJS实现的点点公益青少年发展服务中心CMS系统。
 
 ## License
 MIT License
