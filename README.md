@@ -45,12 +45,6 @@
 
 使用NodeJS，CoffeeScript开发的现代互联网应用俱乐部网站，负责架构和后端开发。
 
-#### [awesome-search](https://github.com/laiy/AI/tree/master/awesome-search)
-项目地址：https://github.com/laiy/AI/tree/master/awesome-search  
-项目博客：http://www.cnblogs.com/laiy/p/awesome_search.html
-
-用C++实现爬山法、随机重启爬山法、模拟退火算法对八皇后问题和八数码问题的性能测试。
-
 #### [rdir](https://github.com/Lhfcws/rdir)
 项目地址：https://github.com/Lhfcws/rdir  
 Pypi地址：https://pypi.python.org/pypi/rdir
@@ -66,6 +60,12 @@ Pypi地址：https://pypi.python.org/pypi/rdir
 项目地址：https://github.com/laiy/ballgame
 
 用NodeJS实现的多人实时online小球游戏，并提供聊天弹幕功能。
+
+#### [awesome-search](https://github.com/laiy/AI/tree/master/awesome-search)
+项目地址：https://github.com/laiy/AI/tree/master/awesome-search  
+项目博客：http://www.cnblogs.com/laiy/p/awesome_search.html
+
+用C++实现爬山法、随机重启爬山法、模拟退火算法对八皇后问题和八数码问题的性能测试。
 
 #### [Agenda](https://github.com/laiy/Agenda)
 项目地址：https://github.com/laiy/Agenda
