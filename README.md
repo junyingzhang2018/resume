@@ -21,7 +21,7 @@
 * 有3年Linux使用经验，熟悉常用命令与配置。
 
 ## 个人经历
-* 在中山大学软件创意赛获得冠军并担任Team Leader角色。（2013.9-2013.11）
+* 在中山大学“百田杯”软件创意大赛获得冠军并担任Team Leader角色。（2013.9-2013.11）
 * 担任中山大学魔术协会会长。（2014.5-2015.5）
 * 在中北明夷科技有限公司实习，负责压力测试和web后端开发。（2015.1-2015.2）
 * 担任中山大学现代互联网应用俱乐部主席。(2015.5-至今)
@@ -81,7 +81,7 @@ Pypi地址：https://pypi.python.org/pypi/rdir
 #### [GridWorld](https://github.com/laiy/GridWorld)
 项目地址：https://github.com/laiy/GridWorld
 
-用JAVA实现的小虫迷宫游戏。
+用Java实现的小虫迷宫游戏。
 
 #### [diandian](http://zhddgy.com/)
 网站地址：http://zhddgy.com/
